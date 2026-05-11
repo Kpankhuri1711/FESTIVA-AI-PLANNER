@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# Ignore database files
+*.db
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables
+.env
